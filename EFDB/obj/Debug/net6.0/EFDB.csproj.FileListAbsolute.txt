@@ -1,0 +1,14 @@
+C:\Repos\GreatERP\EFDB\bin\Debug\net6.0\EFDB.deps.json
+C:\Repos\GreatERP\EFDB\bin\Debug\net6.0\EFDB.runtimeconfig.json
+C:\Repos\GreatERP\EFDB\bin\Debug\net6.0\EFDB.dll
+C:\Repos\GreatERP\EFDB\bin\Debug\net6.0\EFDB.pdb
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\EFDB.csproj.AssemblyReference.cache
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\EFDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\EFDB.AssemblyInfoInputs.cache
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\EFDB.AssemblyInfo.cs
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\EFDB.csproj.CoreCompileInputs.cache
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\EFDB.dll
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\refint\EFDB.dll
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\EFDB.pdb
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\EFDB.genruntimeconfig.cache
+C:\Repos\GreatERP\EFDB\obj\Debug\net6.0\ref\EFDB.dll
